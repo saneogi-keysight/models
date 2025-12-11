@@ -69,3 +69,4 @@ source community project and contribute to its development.
 
 ## Random changes
 Adding some random changes to the readme file, in order to check if the webhook is working properly on commit event or not.
+Another waste of a commit.
